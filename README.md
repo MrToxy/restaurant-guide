@@ -26,6 +26,27 @@ This is a community-curated guide to restaurants in Lisbon, created specifically
 - **Wi-Fi**: Unknown
 - **Notes**: Great bitoque and sea food. You can have lunch until 4pm on Sunday. Walking distance from Poolside.
 
+#### Dafu
+- **Cuisine**: Asian
+- **Price**: €
+- **Address**: R. Acácio de Paiva 15C
+- **Wi-Fi**: Unknown
+- **Notes**: Baos, dumplings, and soups.  Good lunch specials.  Very tasty and about 20m from Poolside.
+
+#### ISCO
+- **Cuisine**: Bakery
+- **Price**: €€
+- **Address**: R. José d'Esaguy 10D
+- **Wi-Fi**: Unknown
+- **Notes**: Every baked good they have there is awesome.  The croissants probably have more butter than flour in them.  Or try the Kardemummabullar.  Right around the corner from Poolside
+
+#### Sim, Chef!
+- **Cuisine**: Portuguese Traditional
+- **Price**: €€
+- **Address**: R. José d'Esaguy 6A, 1700-267 Lisboa
+- **Wi-Fi**: Unknown
+- **Notes**: Everything is traditional, but impeccably executed.  Dinner is all small plates so bring a few people and order a bunch of things. The choco frito (fried cuttlefish) haunts my dreams.  
+
 ## Avenidas Novas (Saldanha, São Sebastião)
 
 #### Laurentina
@@ -52,6 +73,15 @@ This is a community-curated guide to restaurants in Lisbon, created specifically
 - **Address**: Largo das Fontaínhas 15, 1300-023 Lisboa
 - **Wi-Fi**: Unknown
 - **Notes**: Rúben, the waiter, is an interesting and welcoming person, and runs his own electronics repair side business!
+
+## Belém/Algés
+
+#### Kanazawa
+- **Cuisine**: Japanese/Sushi
+- **Price**: €€€€
+- **Address**: R. Damião de Góis 3 A
+- **Wi-Fi**: Unknown
+- **Notes**: The place seats 8, around a counter.  You choose a tasting menu and Chef Mourais does much of the preparation in front of you.  An amazing experience.  Make a reservation in advance.  
 
 ---
 ### Contributing
