@@ -44,6 +44,14 @@ This is a community-curated guide to restaurants in Lisbon, created specifically
 - **Wi-Fi**: Yes
 - **Notes**: Established in the 1950s, Ramiro is a Lisbon seafood staple. We recommend sharing camarão tigre (gian tiger prawns - one can be enough for 2 people) and prego (our classic steak sandwiches.
 
+## Alcântara
+
+#### Tanite
+- **Cuisine**: Portuguese Traditional
+- **Price**: €€
+- **Address**: Largo das Fontaínhas 15, 1300-023 Lisboa
+- **Wi-Fi**: Unknown
+- **Notes**: Rúben, the waiter, is an interesting and welcoming person, and runs his own electronics repair side business!
 
 ---
 ### Contributing
