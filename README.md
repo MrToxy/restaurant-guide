@@ -1,6 +1,6 @@
 # 🍽️ LisboaJS Community Restaurant Guide
 
-This is a community-curated guide to restaurants in Lisbon, created specifically for our JavaScript meetup community, speakers, and guests coming from out of town.
+This is a community-curated guide to restaurants in Lisbon, created for our speakers from Cloudflare, FerretDB, Netlify, Xata, and other friends coming from out of town. Thank you for coming and for sharing your knowledge openly, so that others can grow.
 
 ### What You'll Find Here
 
@@ -66,6 +66,20 @@ This is a community-curated guide to restaurants in Lisbon, created specifically
 - **Notes**: Established in the 1950s, Ramiro is a Lisbon seafood staple. We recommend sharing camarão tigre (gian tiger prawns - one can be enough for 2 people) and prego (our classic steak sandwiches.
 
 ## Alcântara
+
+#### O Mercado
+- **Cuisine**: Portuguese Traditional, Fish
+- **Price**: €€€
+- **Address**:  R. Leão de Oliveira 19, 1300-350 Lisboa
+- **Wi-Fi**: Unknown
+- **Notes**: Established in 1987, Mercado is the go to place for fresh fish in Alcântara.
+
+#### Rui dos Pregos
+- **Cuisine**: Portuguese Traditional
+- **Price**: €€
+- **Address**: Passeio Doca de Santo Amaro, 1350-353 Lisboa
+- **Wi-Fi**: Unknown
+- **Notes**: You may have to wait in a queue for a while but their steak sanwiches (pregos) are outstanding.  
 
 #### Tanite
 - **Cuisine**: Portuguese Traditional
